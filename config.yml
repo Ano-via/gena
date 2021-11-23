@@ -1,5 +1,5 @@
 # title of website
-title: gena
+title: Lux的导航
 
 # description of website
 description: ano-via's navigation site
@@ -38,728 +38,662 @@ webstack:
 
 content:
   categories:
-    - name: 常用推荐
+    - name: 常用网址
       sites:
-        - name: Dribbble
-          description: 全球UI设计师作品分享平台。
-          url: https://dribbble.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
+        - name: Shopify账户注册
+          description: Shopfiy官方网站 注册新账户可获得限时90天免费试用
+          url: https://www.shopify.com/?ref=optosys-technology-co-ltd&amp;utm_campaign=go
+        - name: Shopify官方网站
+          description: Shopify官方网站 进入到官网首页查看注册账户
+          url: https://www.shopify.com/?ref=optosys-technology-co-ltd&amp;utm_campaign=go
+        - name: Shopify在线客服
+          description: Shopfiy官方英文客服 在线聊天 7*24小时为你服务
+          url: https://help.shopify.com/en/questions#/contact/chat
+        - name: Shopify应用市场
+          description: Shopify官方应用市场 各种功能插件扩展独立站功能
+          url: https://apps.shopify.com/
+        - name: Shopify主题市场
+          description: Shopify官方主题模板市场 安全可靠的免费付费Shopify主题
+          url: https://themes.shopify.com/
+        - name: Facebook广告中心
+          description: Facebook广告管理平台 登录或注册也是这个页面
+          url: https://business.facebook.com
+        - name: 谷歌购物广告
+          description: 谷歌关键词广告和谷歌购物广告发布管理中心
+          url: https://ads.google.com
+        - name: PayPal
+          description: 为独立站卖家订制的外贸收款服务和支付方案
+          url: https://www.paypal.com/webapps/merchantboarding/webflow/externalpartnerflow?partnerId=F6STUH9R4M7A2&amp;productIntentID=addipmt&amp;permissionNeeded=&amp;displayMode=regular&amp;integrationType=T&amp;showPermissions=FALSE&amp;country=C2&amp;merchantId=&amp;locale.x=zh_CN
+        - name: Stripe
+          description: 信用卡支付网关的龙头老大 跨境电商独立站必备
+          url: https://www.stripe.com
+        - name: 2Checkout
+          description: 个人跨境独立站卖家也可以申请的信用卡收款通道
+          url: https://www.2checkout.com/referral?r=c3b6912145
+        - name: Google搜索首页
+          description: Google英文搜索网站首页 谷歌一下 啥都知道
+          url: https://www.google.com
+        - name: Facebook首页
+          description: Facebook 网站首页 也是Facebook的登录页面
+          url: https://www.facebook.com
+        - name: Amazon美国站首页
+          description: 全球最大的在线购物平台，要把它当做独立站研究学习
+          url: https://www.amazon.com/
+        - name: 速卖通 Aliexpress
+          description: 阿里集团旗下的跨境电商零售平台 Dropshipping平台
+          url: https://www.aliexpress.com
+        - name: Oberlo 一件代发工具
+          description: Dropshipping卖家必备的一件代发效率工具
+          url: https://www.oberlo.com/
+        - name: E邮宝
+          description: 中国邮政旗下的国际小包录单发货平台
+          url: http://shipping.ems.com.cn/index
+        - name: 17Track
+          description: 为全球用户提供国际物流包裹一站式查询服务
+          url: https://www.17track.net/zh-cn
+        - name: 谷歌网站分析工具
+          description: 独立站必备数据收集分析工具 网站优化的基础
+          url: https://analytics.google.com/analytics/web/
+        - name: 谷歌站长工具
+          description: 独立站必备网站监控工具 提高网站搜索流量和排名
+          url: https://www.google.com/webmasters/
+    - name: 建站工具
+      sites:
+        - name: Shopify账户注册
+          description: Shopfiy官方网站 注册新账户可获得限时90天免费试用
+          url: https://www.shopify.com/?ref=optosys-technology-co-ltd&amp;utm_campaign=go
+        - name: WordPress
+          description: 全球每3个网站里面就有1个多网站是用它搭建的
+          url: https://www.wordpress.org/
+        - name: WooCommerce
+          description: 一款把Wordpress变为在线购物网站的免费开源插件
+          url: https://www.woocommerce.com/
+        - name: ThemeForest
+          description: 全球最大主题市场 提供性价比超高Shopify和WP模板
+          url: https://1.envato.market/shopify
+        - name: Namesilo 域名平台
+          description: 高性价比域名平台付款时使用优惠码“waimaob2c”立省1美金
+          url: https://www.namesilo.com/register.php?rid=262b725ip
+        - name: SiteGround
+          description: Wordpress和WooCommerce官方推荐高性价比外贸主机
+          url: https://www.siteground.com/go/waimaogo
+        - name: Bluehost
+          description: Worpdress外贸网站建站主机 提供1年免费域名和SSL证书
+          url: https://www.bluehost.com/track/waimaob2c/go
+        - name: Dreamhost
+          description: 成立18年的老牌主机服务商托管150万个网站
+          url: https://mbsy.co/ZncGj
+        - name: Magento
+          description: 专业开源免费的PHP电子商务系统
+          url: https://magento.com/
+        - name: Opencart
+          description: 世界著名的开源免费PHP电子商务建站系统
+          url: https://www.opencart.com/
+        - name: BigCommerce
+          description: Shopify最佳替代方案 外贸独立站建站平台
+          url: https://bigcommerce.zfrcsk.net/waimaob2cgo
+        - name: Ecwid
+          description: Shopify最佳替代方案 无交易手续费建站平台
+          url: http://open.ecwid.com/go
+        - name: PrestaShop
+          description: 功能丰富，基于PHP5开发的Web2.0网上购物系统
+          url: https://www.prestashop.com/en
+    - name: 跨境选品
+      sites:
+        - name: 美亚热新飙品
+          description: 美国亚马逊近期的 热销产品 / 新产品 / 飙升产品
+          url: https://www.amazon.com/gp/bestsellers
+        - name: 英亚热新飙品
+          description: 英国亚马逊近期的 热销产品 / 新产品 / 飙升产品
+          url: https://www.amazon.co.uk/gp/bestsellers
+        - name: 澳亚热新飙品
+          description: 澳大利亚亚马逊 热销产品 / 新产品 / 飙升产品
+          url: https://www.amazon.com.au/gp/bestsellers
+        - name: 日亚热新飙品
+          description: 日本亚马逊近期的 热销产品 / 新产品 / 飙升产品
+          url: https://www.amazon.co.jp/gp/bestsellers
+        - name: 德亚热新飙品
+          description: 德国亚马逊近期的 热销产品 / 新产品 / 飙升产品
+          url: https://www.amazon.de/gp/bestsellers
+        - name: 西亚热新飙品
+          description: 西班牙亚马逊近期 热销产品 / 新产品 / 飙升产品
+          url: https://www.amazon.es/gp/bestsellers
+        - name: 谷歌趋势
+          description: 通过趋势和热度了解产品爆款潜质/季节性趋势
+          url: https://trends.google.com/
+        - name: 谷歌全球商机通
+          description: 发掘全球商机 精准洞察市场潜力 快速规划业务
+          url: https://ads.google.cn/marketfinder/
+        - name: 速卖通代发中心
+          description: 速卖通代发中心 需要速卖通买家账户登录才行
+          url: https://home.aliexpress.com/dropshippercenter/dashboard.htm
+        - name: 1688跨境专供
+          description: 1688专为跨境电商卖家提供的数据选品工具
+          url: https://kj.1688.com/
+        - name: Oberlo一件代发
+          description: Shopify官方为"一件代发"卖家提供的效率工具
+          url: https://www.oberlo.com/
+        - name: Dropified
+          description: 一件代发工具支持 Shopify / Woocommerce
+          url: https://www.dropified.com/
+        - name: Spocket
+          description: 提供一件代发服务 60%供应商来自欧美本土
+          url: https://www.spocket.co/
+        - name: NicheScraper
+          description: 爆款选品工具 每日推送爆款产品 $199/年
+          url: https://nichescraper.com/
+        - name: Commerce Inspector
+          description: 全面分析竞争对手的Shopify网站信息 $49/月
+          url: https://www.commerceinspector.com/
+        - name: Intelligynce
+          description: 提供500,000+独立站爆款/热卖产品数据 $39/月
+          url: https://intelligynce.com/
+        - name: Ecomhunt
+          description: 每日推荐爆款 提供全面产品数据分析 $29/月
+          url: https://ecomhunt.com/
+        - name: AliExtractor
+          description: 功能强大的速卖通数据选品软件 $29/月
+          url: https://aliextractor.com/
+        - name: AdSpy
+          description: 全球最强大的FB和INS广告SPY工具之一 $99/月
+          url: https://adspy.com/
+        - name: BigSpy
+          description: 强大的FB INS PIN 谷歌 推特 雅虎广告SPY工具
+          url: https://bigspy.com/
+        - name: FindNiche
+          description: 免费但强大的爆款选品 竞争对手监控工具
+          url: https://findniche.com/
+        - name: SellTheTrend
+          description: 9合1 号称AI智能大数据分析的选品工具 $40/月
+          url: https://www.sellthetrend.com/
+        - name: Thieve
+          description: 专注于挖掘速卖通新奇特产品的导购网站 $29/月
+          url: https://thieve.co/
+        - name: Pexda
+          description: 又一款基于数据分析的爆款产品挖掘工具 $25/月
+          url: https://pexda.com/
+        - name: KickStarter
+          description: 致力于将创意专案变为现实的众筹网站 挖掘新品
+          url: https://www.kickstarter.com/
+        - name: Indiegogo
+          description: 美国最早全球最大众筹网站之一 挖掘新品好去处
+          url: https://www.indiegogo.com/
+        - name: SU & TMM
+          description: 有一堆好玩创意十足 非常适合FB广告的产品
+          url: http://www.shutupandtakemymoney.com/
+        - name: TIWIMB
+          description: 又一个有堆适合FB广告非常好玩儿的产品的网站
+          url: https://www.thisiswhyimbroke.com/
+        - name: TheAwesomer
+          description: 双一个有堆适合FB广告非常好玩儿的产品的网站
+          url: https://theawesomer.com/
+        - name: Odditymall
+          description: 叒一个有堆适合FB广告非常好玩儿的产品的网站
+          url: https://odditymall.com/
+        - name: Alishark
+          description: Shopify插件Hurrify作者开发的爆款选品工具 $20/月
+          url: https://alishark.com/
+        - name: DropshipSpy
+          description: 爆款选品工具 竞争对手分析监控工具 $20/月
+          url: https://dropship-spy.com/
+        - name: SaleSource
+          description: 又一款爆款选品 竞争对手分析监控工具 $49/月
+          url: https://salesource.io/
+        - name: TrendHunter
+          description: 一个由编辑精选出来的各类TOP产品导购网站
+          url: https://www.trendhunter.com/
+        - name: HotProducts
+          description: 一个集成爆款选品工具和FB广告受众分析的网站
+          url: https://HotProducts.io/
+        - name: ShopInspect
+          description: 基于人工智能机器学习挖掘有潜质的爆款 $47/月
+          url: https://www.shopinspect.com/
+        - name: Rising Retail Categories
+          description: Google官方出品的近期搜索量暴增零售产品列表
+          url: https://www.thinkwithgoogle.com/feature/category-trends/us/year/en
+    - name: 广告流量
+      sites:
+        - name: Facebook 首页
+          description: Facebook 网站首页 也是Facebook的登录页面
+          url: https://www.facebook.com
+        - name: 商务管理平台
+          description: Facebook广告管理平台 登录或注册也是这个页面
+          url: https://business.facebook.com
+        - name: FB广告数据库
+          description: Facebook官方提供的免费FB INS广告资料库
+          url: https://www.facebook.com/ads/library
+        - name: FB 主页评分
+          description: 在这里查看你所有FB主页的客户反馈和分数
+          url: https://business.facebook.com/ads/customer_feedback/
+        - name: FB 受众分析
+          description: Facebook官方提供的免费且强大的受众分析工具
+          url: https://www.facebook.com/ads/audience-insights
+        - name: FB 广告客服
+          description: Facebook官方提供的广告在线客服 咨询与申诉
+          url: https://www.messenger.com/t/facebookadsupport
+        - name: 商家帮助中心
+          description: 新手投放FB广告前必读的说明文档和投放教程
+          url: https://www.facebook.com/business/help
+        - name: FB 广告代理
+          description: Facebook 官方认可的大陆FB广告代理商列表
+          url: https://reachtheworldonfacebook.com/reseller/
+        - name: FB 像素帮手
+          description: 可帮您验证 Facebook 像素是否正常运行的工具
+          url: https://developers.facebook.com/docs/facebook-pixel/support/pixel-helper
+        - name: FB 免费培训
+          description: Facebook官方提供的系统免费在线广告培训课程
+          url: https://www.facebook.com/business/learn
+        - name: FB创作工作室
+          description: 管理所有主页图文视频内容并获取成效分析数据
+          url: https://business.facebook.com/creatorstudio/
+        - name: FB 视频下载
+          description: 一款免费又好用的 FB 视频和音频下载工具
+          url: https://www.getfvid.com/
+        - name: 谷歌搜索首页
+          description: Google英文搜索网站首页 谷歌一下 啥都知道
+          url: https://www.google.com
+        - name: 谷歌广告中心
+          description: 谷歌关键词广告和谷歌购物广告发布管理中心
+          url: https://ads.google.com
+        - name: 谷歌站长工具
+          description: 独立站必备网站监控工具 提高网站搜索流量和排名
+          url: https://www.google.com/webmasters/
+        - name: 谷歌分析工具
+          description: 独立站必备数据收集分析工具 网站优化的基础
+          url: https://analytics.google.com/
+        - name: 谷歌商家中心
+          description: 产品FEED数据处理 投放谷歌购物广告必备工具
+          url: https://merchants.google.com/
+        - name: 谷歌电话客服
+          description: 客服电话 8009909020 4008100838
+          url: https://support.google.com/google-ads/answer/7218750?hl=zh-Hans
+        - name: Taboola
+          description: 通过投放原生广告获取顶尖媒体的优质流量
+          url: https://www.taboola.com/
+        - name: Outbrain
+          description: 已经和Taboola合并 投放原生广告获取优质流量
+          url: https://www.outbrain.com/
+        - name: Adroll
+          description: 主打再营销广告服务的技术公司和广告投放平台
+          url: https://www.adroll.com/
+        - name: Criteo
+          description: 再营销广告为核心的效果类数字营销广告平台
+          url: https://www.criteo.com/
+        - name: Revcontent
+          description: 又一个获取高质量流量和客户的原生广告投放平台
+          url: https://www.revcontent.com/
+        - name: Mgid
+          description: 又一个可以投放原生广告获取流量和客户的平台
+          url: https://www.mgid.com/
+        - name: Instagram Ads
+          description: Instagram 广告投放 - 跳转至FB商务管理平台
+          url: https://business.instagram.com/advertising/
+        - name: Youtube Ads
+          description: 全球最大视频网站广告投放 跳转至谷歌广告中心
+          url: https://www.youtube.com/ads/
+        - name: Twitter Ads
+          description: 通过推文推广获取推特上的流量和客户资源
+          url: https://ads.twitter.com/
+        - name: Reddit Ads
+          description: 在Reddit社区投放广告获取流量和客户资源
+          url: https://www.redditinc.com/advertising
+        - name: Snapchat Ads
+          description: 通过Snapchat广告触及你的潜在的客户 获取订单
+          url: https://forbusiness.snapchat.com/
+        - name: TikTok Ads
+          description: 通过海外版抖音TIKTOK广告触达新世代消费主力
+          url: https://ads.tiktok.com/homepage/
+        - name: Pinterest Ads
+          description: 通过广告从全球最大图片社交分享网站获取流量和订单
+          url: https://ads.pinterest.com/
+        - name: Quora Ads
+          description: 用广告从海外版知乎Quora获取流量和订单
+          url: http://quora.com/
+        - name: Linkedin Ads
+          description: 从全球知名职场社交平台Linkedin获取流量和订单
+          url: https://www.linkedin.com
+        - name: Amazon Ads
+          description: 把你独立站的广告做到亚马逊上获取高质量流量
+          url: https://advertising.amazon.com/products/display-ads
+        - name: Ebay Ads
+          description: 把你独立站的广告做到eBay上获取高质量流量
+          url: https://ebayadvertising.com/
+    - name: 社交营销
+      sites:
+        - name: Facebook
+          description: 脸谱网 全球最大社交网络平台 需登梯子访问
+          url: https://www.facebook.com
         - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
-    - name: 界面灵感
+          description: 油管网 全球最大的视频网站 需要登梯子访问
+          url: https://www.youtube.com
+        - name: TikTok
+          description: 海外版抖音 近期热点平台 出海营销新赛道
+          url: https://www.tiktok.com
+        - name: Instagram
+          description: INS FB旗下在线照片和视频共享社交网络 需梯子
+          url: https://www.instagram.com
+        - name: Twitter
+          description: 推特 美国微博 美国总统特朗普的治国工具
+          url: https://www.twitter.com
+        - name: Pinterest
+          description: 瀑布流图片社区 世界上最大的图片社交分享网站
+          url: https://www.pinterest.com
+        - name: Snapchat
+          description: 被当成相机来玩儿的"阅后即焚"照片分享应用
+          url: https://www.snapchat.com
+        - name: Reddit
+          description: 红迪网 一个"提前于新闻发声"的社交新闻网站
+          url: https://www.reddit.com
+        - name: Quora
+          description: FB前员工创建的海外版知乎 一个问答SNS网站
+          url: https://www.quora.com
+        - name: Linkedin
+          description: 领英 全球职场社交平台 管理职业生涯和人脉
+          url: https://www.linkedin.com
+        - name: Tumblr
+          description: 汤不热 目前全球最大的轻博客网站 轻博客鼻祖
+          url: https://www.tumblr.com/
+        - name: VK
+          description: 一个高仿Facebook的俄罗斯社交网络平台
+          url: https://vk.com/
+        - name: HootSuite
+          description: 同时管理35+社交网站的多平台聚合管理工具
+          url: https://hootsuite.com/
+        - name: Buffer
+          description: 75,000+用户共同信赖的社交媒体管理分析工具
+          url: https://buffer.com/
+        - name: SproutSocial
+          description: 20000+世界一流公司在用的社交媒体管理工具
+          url: https://sproutsocial.com/
+        - name: Biteable
+          description: 一个简单而强大的免费视频和动画在线制作网站
+          url: https://biteable.com/
+        - name: Tailwind
+          description: 一款强大的专注于PIN和INS的社交管理工具
+          url: https://www.tailwindapp.com/
+        - name: AgoraPulse
+          description: 来自法国巴黎的社交媒体营销管理平台
+          url: https://www.agorapulse.com/
+        - name: SocialBakers
+          description: FB INS 油管 推特 网红数据分析及内容分析工具
+          url: https://www.socialbakers.com/
+        - name: Tomoson
+          description: 号称 ROI 可达到 6.5 的红人营销平台 21天免费
+          url: https://www.tomoson.com/
+        - name: Famebit
+          description: Youtube旗下视频营销平台 油管网红营销必备
+          url: https://famebit.com/
+        - name: ShoutCart
+          description: 以INS为主按时间付费的社交网络红人营销平台
+          url: https://shoutcart.com/
+        - name: Buzzsumo
+          description: 热点话题和优质内容筛选收集和数据分析工具
+          url: https://buzzsumo.com/
+        - name: BuzzStream
+          description: 强大的网红数据分析挖掘和跟踪管理工具
+          url: https://www.buzzstream.com/
+        - name: Noxinfluencer
+          description: 中国首家全球领先的油管视频网红营销服务平台
+          url: https://www.noxinfluencer.com/
+        - name: Izea
+          description: 2006年成立纳斯达克上市的社交媒体营销服务公司
+          url: https://izea.com/
+        - name: Tapinfluence
+          description: 以转化为目标以数据驱动的红人挖掘跟踪管理平台
+          url: https://www.tapinfluence.com/
+        - name: Aspireiq
+          description: 强大的社交网红资源挖掘分析跟踪和管理平台
+          url: https://www.aspireiq.com/
+        - name: Upfluence
+          description: 人工智能数据驱动的一站式红人营销平台
+          url: https://www.upfluence.com/
+        - name: Klear
+          description: 分类全覆盖面广的红人营销必备红人数据库资源
+          url: https://klear.com/
+    - name: SEO工具
       sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
-    - name: 社区资讯
+        - name: 关键词规划师
+          description: Google官方出品的SEO关键词调研和分析工具
+          url: https://ads.google.com/home/tools/keyword-planner/
+        - name: 谷歌站长工具
+          description: 谷歌站长工具 独立站必备网站监控工具 提高网站搜索流量和排名
+          url: https://www.google.com/webmasters/
+        - name: 必应站长工具
+          description: 独立站网站监控工具提高网站必应搜索流量和排名
+          url: https://www.bing.com/toolbox/webmaster
+        - name: 谷歌网页测速
+          description: 谷歌官方出品的网站打开速度测试及优化指南
+          url: https://developers.google.com/speed/pagespeed/insights/
+        - name: 结构化数据测试
+          description: 谷歌官方出品的独立站结构化数据测试工具
+          url: https://search.google.com/structured-data/testing-tool?hl=zh-CN
+        - name: 谷歌分析工具
+          description: 独立站必备数据收集分析工具 网站优化的基础
+          url: https://analytics.google.com/analytics/web
+        - name: Ahrefs
+          description: 数字营销从业者首选的功能强大的SEO工具
+          url: https://ahrefs.com/
+        - name: MOZ
+          description: 全世界最有名的提供SEO软件服务的公司之一
+          url: https://moz.com/free-seo-tools
+        - name: Semrush
+          description: 提供强大而全面的一体化数字营销服务的工具
+          url: https://www.semrush.com/
+        - name: Buzzsumo
+          description: 内容分析 竞争分析 外链建设必备SEO营销神器
+          url: https://buzzsumo.com/
+        - name: BuzzStream
+          description: 强大的外链建设和内容营销SEO工具
+          url: https://www.buzzstream.com/
+        - name: KeywordsEverywhere
+          description: 付费但超便宜SEO关键字研究工具谷歌浏览器插件
+          url: https://keywordseverywhere.com/
+        - name: Yoast
+          description: Wordpress宇宙中最受欢迎的SEO插件 没有之一
+          url: https://yoast.com/
+        - name: Answerthepublic
+          description: 最具个性而且免费的网站SEO关键词研究工具
+          url: https://answerthepublic.com/
+        - name: Surfer
+          description: 免费网站SEO关键字研究工具 谷歌浏览器插件
+          url: https://surferseo.com/keyword-surfer-extension/
+        - name: KWFinder
+          description: 强大的长尾关键词SEO竞争研究和分析工具
+          url: https://kwfinder.com/
+        - name: UberSuggest
+          description: 免费一站式关键字建议内容建议及竞争分析工具
+          url: https://neilpatel.com/cn/ubersuggest/
+        - name: Spyfu
+          description: 专注于竞争对手 SEO PPC 分析和关键字跟踪
+          url: https://www.spyfu.com/
+        - name: ScreamingFrog
+          description: 专门用于抓取网址进行分析的网络爬虫开发工具
+          url: https://www.screamingfrog.co.uk/
+        - name: SEOQuake
+          description: 基于谷歌和火狐浏览器的一款功能强大SEO插件
+          url: https://www.seoquake.com/index.html
+        - name: Copyscape
+          description: 一个在线反抄袭伪原创检测原创内容保护神器
+          url: http://www.copyscape.com/
+        - name: KeywordTool
+          description: 提供多渠道关键词的替代Adwords的最佳SEO工具
+          url: https://keywordtool.io/
+        - name: WordStream
+          description: 免费提供谷歌关键词数据的SEO分析工具
+          url: https://www.wordstream.com/keywords
+        - name: LongtailPro
+          description: 功能强大的长尾关键字SEO研究工具
+          url: https://longtailpro.com/
+    - name: 邮件营销
       sites:
-        - name: 雷锋网
-          description: 人工智能和智能硬件领域的互联网科技媒体
-          url: https://www.leiphone.com/
-        - name: 36kr
-          description: 创业资讯、科技新闻
-          url: http://36kr.com/
-        - name: 数英网
-          description: 数字媒体及职业招聘网站
-          url: https://www.digitaling.com/
-        - name: 猎云网
-          description: 互联网创业项目推荐和创业创新资讯
-          url: http://www.lieyunwang.com/
-        - name: 人人都是产品经理
-          description: 产品经理、产品爱好者学习交流平台
-          url: http://www.woshipm.com/
-        - name: 互联网早读课
-          description: 互联网行业深度阅读与学习平台
-          url: https://www.zaodula.com/
-        - name: 产品壹佰
-          description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-          url: http://www.chanpin100.com/
-        - name: PMCAFF
-          description: 中国第一产品经理人气组织，专注于研究互联网产品
-          url: http://www.pmcaff.com/
-        - name: 爱运营
-          description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-          url: http://www.iyunying.org/
-        - name: 鸟哥笔记
-          description: 移动互联网第一干货平台
-          url: http://www.niaogebiji.com/
-        - name: 古田路9号
-          description: 国内专业品牌创意平台
-          url: http://www.gtn9.com/
-        - name: 优阁网
-          description: UI设计师学习交流社区
-          url: http://www.uigreat.com/
-    - name: 发现产品
+        - name: Klaviyo
+          description: 专为电商网站设计的邮件营销和短信息营销工具
+          url: https://www.klaviyo.com/
+        - name: Omnisend
+          description: 专为电商网站设计的全渠道自动化营销工具
+          url: https://www.omnisend.com/
+        - name: Mailchimp
+          description: 让大猩猩都可以轻松使用的综合邮件营销服务平台
+          url: https://mailchimp.com/
+        - name: Aweber
+          description: 专注服务于中小企业的简单而强大的邮件营销工具
+          url: https://www.aweber.com/
+        - name: Mailjet
+          description: 提供免费专业SMTP邮箱的综合邮件营销服务
+          url: https://www.mailjet.com/
+        - name: Drip
+          description: 提供自动化客户关系管理和全渠道营销服务
+          url: https://www.drip.com/
+        - name: ConstantContact
+          description: 国外备受信任的综合性邮件营销服务商之一
+          url: https://www.constantcontact.com/global/home-page
+        - name: ConvertKit
+          description: 快速增长中的自动化邮件营销工具
+          url: https://convertkit.com/
+        - name: GetResponse
+          description: 自动化电子邮件营销软件和自动回复器
+          url: https://cn.getresponse.com/
+        - name: ActiveCampaign
+          description: 自动化邮件营销 信息营销 客户关系管理工具
+          url: https://www.activecampaign.com/
+        - name: CMCommerce
+          description: 基于SP* Woo* 和BigC*的电商网站邮件营销工具
+          url: https://cm-commerce.com/
+        - name: Hunter
+          description: 快速查找目标网站邮件地址的神器谷歌浏览器插件
+          url: https://hunter.io/
+        - name: 腾讯免费企业邮箱
+          description: 腾讯提供的免费企业邮箱服务 稳定性很高
+          url: https://exmail.qq.com/
+        - name: 阿里云免费企业邮箱
+          description: 安全稳固 全球畅游 绿色可靠 专业运营
+          url: https://wanwang.aliyun.com/mail/freemail/
+    - name: 跨境收款
       sites:
-        - name: NEXT
-          description: 不错过任何一个新产品
-          url: http://next.36kr.com/posts
-        - name: 少数派
-          description: 高品质数字消费指南
-          url: https://sspai.com/
-        - name: 利器
-          description: 创造者和他们的工具
-          url: http://liqi.io/
-        - name: Today
-          description: 为身边的新产品喝彩
-          url: http://today.itjuzi.com/
-        - name: 小众软件
-          description: 在这里发现更多有趣的应用
-          url: https://faxian.appinn.com/
-        - name: Pttrns
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-          url: https://www.pttrns.com/
-        - name: Collect UI
-          description: Daily inspiration collected from daily ui archive and beyond.
-          url: http://collectui.com/
-        - name: UI uigreat
-          description: APP界面截图参考
-          url: http://ui.uigreat.com/
-        - name: Android Niceties
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-          url: http://androidniceties.tumblr.com/
-    - name: 网页灵感
+        - name: PayPal
+          description: 为独立站卖家订制的外贸收款服务和支付方案
+          url: https://www.paypal.com/
+        - name: Stripe
+          description: 信用卡支付网关的龙头老大 跨境电商独立站必备
+          url: https://stripe.com/
+        - name: 2Checkout
+          description: 个人跨境独立站卖家也可以申请的信用卡收款通道
+          url: https://www.2checkout.com/
+        - name: Payoneer
+          description: 派安盈 - 安全 快速 一站式跨境收款服务平台
+          url: https://www.payoneer.com
+        - name: WorldFirst
+          description: 万里汇 蚂蚁金服旗下一站式跨境收款服务平台
+          url: https://www.worldfirst.com.cn
+        - name: AirWallex
+          description: 空中云汇 共同定义跨境电商支付新标准
+          url: https://www.airwallex.com/
+        - name: Sezzle
+          description: 让跨境独立站支持信用卡分期付款的收款平台
+          url: https://sezzle.com/
+        - name: 钱海
+          description: 一站式跨境支付方案提供商 让全球支付更简单
+          url: https://www.oceanpayment.com/cn/
+        - name: iPayLinks
+          description: 以金融科技赋能 跨境企业全球业务发展
+          url: https://www.ipaylinks.com/
+        - name: 首信易支付
+          description: 汇通全球， 国际领先的支付平台
+          url: https://www.payeasenet.com/
+        - name: 通联支付
+          description: 让资金更流畅 让支付更便捷
+          url: https://www.allinpay.com/
+        - name: Asiabill
+          description: 为跨境卖家提供安全便捷的信用卡和本地收款方案
+          url: https://www.asiabill.com/
+        - name: PingPong
+          description: 服务中国跨境卖家 让收款更快一步
+          url: https://www.pingpongx.com/zh
+        - name: Coinbase
+          description: 为电商网站提供比特币支付和收款服务
+          url: https://commerce.coinbase.com/
+        - name: CoinPayments
+          description: 为电商网站提供比特币支付和收款服务
+          url: https://www.coinpayments.net/
+        - name: Splitit
+          description: 为电商网站提供信用卡分期支付和收款的工具
+          url: https://www.splitit.com/
+        - name: d local
+          description: 专注于服务印度巴西等新兴市场的独立站收款工具
+          url: https://dlocal.com/
+    - name: 学习成长
       sites:
-        - name: Awwwards
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-          url: https://www.awwwards.com/
-        - name: CSS Design Awards
-          description: Website Awards & Inspiration - CSS Gallery
-          url: https://www.cssdesignawards.com/
-        - name: The FWA
-          description: FWA - showcasing innovation every day since 2000
-          url: https://thefwa.com/
-        - name: Ecommercefolio
-          description: Only the Best Ecommerce Design Inspiration
-          url: http://www.ecommercefolio.com/
-        - name: Lapa
-          description: The best landing page design inspiration from around the web.
-          url: http://www.lapa.ninja/
-        - name: Reeoo
-          description: web design inspiration and website gallery
-          url: http://reeoo.com/
-        - name: Designmunk
-          description: Best Homepage Design Inspiration
-          url: https://designmunk.com/
-        - name: Best Websites Gallery
-          description: Website Showcase Inspiration | Best Websites Gallery
-          url: https://bestwebsite.gallery/
-        - name: Pages
-          description: Curated directory of the best Pages
-          url: http://www.pages.xyz/
-        - name: SiteSee
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-          url: https://sitesee.co/
-        - name: Site Inspire
-          description: A CSS gallery and showcase of the best web design inspiration.
-          url: https://www.siteinspire.com/
-        - name: WebInspiration
-          description: 网页设计欣赏,全球顶级网页设计
-          url: http://web.uedna.com/
-        - name: navnav
-          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
-          url: http://navnav.co/
-        - name: Really Good UX
-          description: A library of screenshots and examples of really good UX. Brought to you by
-          url: https://www.reallygoodux.io/
-    - name: 图标素材
+        - name: Shopify 博客
+          description: 官方英文博客提供 流量运营 卖家故事 选品技巧
+          url: https://www.shopify.com/blog
+        - name: Shopify 论坛
+          description: 干货满满的英文Shopify建站运营推广交流论坛
+          url: https://community.shopify.com/c/Shopify-Community/ct-p/en
+        - name: STMforum
+          description: 大神云集 国外知名的联盟营销论坛
+          url: https://stmforum.com/
+        - name: AuthorityHacker
+          description: 教你用SEO方法从0到1通过亚马逊联盟赚美金
+          url: https://ah103--jmedia.thrivecart.com/the-authority-site/
+        - name: EcomLadder
+          description: 系统的独立站优化FB广告谷歌广告投放视频教程
+          url: https://training.ecomladder.com/cf-product-winner-blueprint24675091?affiliate=newbiebay
+        - name: Ahrefs 学院
+          description: Ahrefs工具使用视频教程以及博客SEO引流教程
+          url: https://ahrefs.com/academy
+        - name: FB广告帮助文档
+          description: 新手投放FB广告前必读的说明文档和投放教程
+          url: https://business.facebook.com/business/help/
+        - name: FB蓝图学院
+          description: Facebook官方提供的系统免费在线广告培训课程
+          url: https://www.facebook.com/business/learn
+        - name: 谷歌广告教程
+          description: 新手投放谷歌广告前必读的说明文档和投放教程
+          url: https://support.google.com/google-ads
+        - name: 购物广告教程
+          description: 新手投放购物广告前必读的说明文档和投放教程
+          url: https://support.google.com/googleshopping
+        - name: 谷歌站长教程
+          description: 谷歌官方出品的网站SEO优化教程和站长工具指南
+          url: https://support.google.com/webmasters#topic=9128571
+        - name: 谷歌SEO教程
+          description: 新手必读的i谷歌官方出品的网站SEO优化指南
+          url: https://support.google.com/webmasters/answer/7451184
+        - name: SEOSignalsLab
+          description: 高质量SEO营销FB私密群组 入群需申请
+          url: https://www.facebook.com/groups/1576497699334353/
+        - name: Shopify 学院
+          description: Shopify官方提供的独立站运营和流量获取教程
+          url: https://www.shopify.com/academy
+        - name: 未命名文档
+          description: MOZ提供的最新最全最系统的SEO文字视频教程
+          url: https://moz.com/learn/seo
+        - name: WealthyAffiliate
+          description: 一个在线网络营销生意的教育平台和社交网络平台
+          url: https://www.wealthyaffiliate.com/
+    - name: 效率工具
       sites:
-        - name: Iconfinder
-          description: 2,100,000+ free and premium vector icons.
-          url: https://www.iconfinder.com
-        - name: iconfont
-          description: 阿里巴巴矢量图标库
-          url: http://www.iconfont.cn/
-        - name: iconmonstr
-          description: Free simple icons for your next project
-          url: https://iconmonstr.com/
-        - name: Icon Archive
-          description: Search 590,912 free icons
-          url: http://www.iconarchive.com/
-        - name: FindIcons
-          description: Search through 300,000 free icons
-          url: https://findicons.com/
-        - name: IcoMoonApp
-          description: Icon Font, SVG, PDF & PNG Generator
-          url: https://icomoon.io/app/
-        - name: easyicon
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-          url: http://www.easyicon.net/
-        - name: flaticon
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-          url: https://www.flaticon.com/
-        - name: UICloud
-          description: The largest user interface design database in the world.
-          url: http://ui-cloud.com/
-        - name: Material icons
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-          url: https://material.io/icons/
-        - name: Font Awesome Icon
-          description: The complete set of 675 icons in Font Awesome
-          url: fontawesomeicon
-        - name: ion icons
-          description: The premium icon font for Ionic Framework.
-          url: http://ionicons.com/
-        - name: Simpleline Icons
-          description: Simple line Icons pack
-          url: http://simplelineicons.com/
-    - name: LOGO设计
-      sites:
-        - name: Iconsfeed
-          description: iOS icons gallery
-          url: http://www.iconsfeed.com/
-        - name: iOS Icon Gallery
-          description: Showcasing beautiful icon designs from the iOS App Store
-          url: http://iosicongallery.com/
-        - name: World Vector Logo
-          description: Brand logos free to download
-          url: https://worldvectorlogo.com/
-        - name: Instant Logo Search
-          description: Search & download thousands of logos instantly
-          url: http://instantlogosearch.com/
-    - name: 平面素材
-      sites:
-        - name: wallhalla
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-          url: https://wallhalla.com/
-        - name: 365PSD
-          description: Free PSD & Graphics, Illustrations
-          url: https://365psd.com/
-        - name: Medialoot
-          description: Free & Premium Design Resources — Medialoot
-          url: https://medialoot.com/
-        - name: 千图网
-          description: 专注免费设计素材下载的网站
-          url: http://www.58pic.com/
-        - name: 千库网
-          description: 免费png图片背景素材下载
-          url: http://588ku.com/
-        - name: 我图网
-          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
-          url: http://www.ooopic.com/
-        - name: 90设计
-          description: 电商设计（淘宝美工）千图免费淘宝素材库
-          url: http://90sheji.com/
-        - name: 昵图网
-          description: 原创素材共享平台
-          url: http://www.nipic.com/
-        - name: 懒人图库
-          description: 懒人图库专注于提供网页素材下载
-          url: http://www.lanrentuku.com/
-        - name: 素材搜索
-          description: 设计素材搜索聚合
-          url: http://so.ui001.com/
-        - name: PS饭团网
-          description: 不一样的设计素材库！让自己的设计与众不同！
-          url: http://psefan.com/
-        - name: 素材中国
-          description: 免费素材共享平台
-          url: http://www.sccnn.com/
-        - name: freepik
-          description: More than a million free vectors, PSD, photos and free icons.
-          url: https://www.freepik.com/
-    - name: UI资源
-      sites:
-        - name: Freebiesbug
-          description: Hand-picked resources for web designer and developers, constantly updated.
-          url: https://freebiesbug.com/
-        - name: Freebie Supply
-          description: Free Resources For Designers
-          url: https://freebiesupply.com/
-        - name: 云瑞
-          description: 优秀设计资源的分享网站
-          url: https://www.yrucd.com/
-        - name: 稀土区
-          description: 优质设计开发资源分享
-          url: https://xituqu.com/
-        - name: ui8
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-          url: https://ui8.net/
-        - name: uplabs
-          description: Daily resources for product designers & developers
-          url: https://www.uplabs.com/
-        - name: UIkit.me
-          description: 最便捷新鲜的uikit资源下载网站
-          url: http://www.uikit.me/
-        - name: Fribbble
-          description: Free PSD files and other free design resources by Dribbblers.
-          url: http://www.fribbble.com/
-        - name: PrincipleRepo
-          description: Free, High Quality Principle Resources
-          url: http://principlerepo.com/
-        - name: Designmodo
-          description: Web Design Blog and Shop
-          url: https://designmodo.com/
-    - name: Sketch资源
-      sites:
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
-        - name: Sketch Measure
-          description: Friendly user interface offers you a more intuitive way of making marks.
-          url: http://utom.design/measure/
-        - name: Sketch App Sources
-          description: Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
-          url: https://www.sketchappsources.com/
-        - name: Sketch.im
-          description: Sketch 相关资源汇聚
-          url: http://www.sketch.im/
-        - name: Sketch Hunt
-          description: Sketch Hunt is an independent blog sharing gems in learning, plugins & design tools for fans of Sketch app.
-          url: http://sketchhunt.com/
-        - name: Sketch中文网
-          description: 分享最新的Sketch中文手册
-          url: http://www.sketchcn.com/
-        - name: Awesome Sketch Plugins
-          description: A collection of really useful Sketch plugins.
-          url: https://awesome-sket.ch/
-        - name: Sketchcasts
-          description: Learn Sketch Train your design skills with a weekly video tutorial
-          url: https://www.sketchcasts.net/
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
-    - name: 字体资源
-      sites:
-        - name: Google Font
-          description: Making the web more beautiful, fast, and open through great typography
-          url: https://fonts.google.com/
-        - name: Typekit
-          description: Quality fonts from the world’s best foundries.
-          url: https://typekit.com/
-        - name: 方正字库
-          description: 方正字库官方网站
-          url: http://www.foundertype.com/
-        - name: 字体传奇网
-          description: 中国首个字体品牌设计师交流网
-          url: http://ziticq.com/
-        - name: Fontsquirrel
-          description: FREE fonts for graphic designers
-          url: https://www.fontsquirrel.com/
-        - name: Urban Fonts
-          description: Download Free Fonts and Free Dingbats.
-          url: https://www.urbanfonts.com/
-        - name: Lost Type
-          description: Lost Type is a Collaborative Digital Type Foundry
-          url: http://www.losttype.com/
-        - name: FONTS2U
-          description: Download free fonts for Windows and Macintosh.
-          url: https://fonts2u.com/
-        - name: Fontex
-          description: Free Fonts to Download + Premium Typefaces
-          url: http://www.fontex.org/
-        - name: FontM
-          description: Free Fonts
-          url: http://fontm.com/
-        - name: My Fonts
-          description: Fonts for Print, Products & Screens
-          url: http://www.myfonts.com/
-        - name: Da Font
-          description: Archive of freely downloadable fonts.
-          url: https://www.dafont.com/
-        - name: OnlineWebFonts
-          description: WEB Free Fonts for Windows and Mac / Font free Download
-          url: https://www.onlinewebfonts.com/
-        - name: Abstract Fonts
-          description: Abstract Fonts (13,866 free fonts)
-          url: http://www.abstractfonts.com/
-    - name: Mockup
-      sites:
-        - name: MockupZone
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
-          url: https://mockup.zone/
-        - name: Dunnnk
-          description: Generate Product Mockups For Free
-          url: http://dunnnk.com/
-        - name: Graphberry
-          description: Free design resources, Mockups, PSD web templates, Icons
-          url: http://www.graphberry.com/
-        - name: Threed
-          description: Generate 3D Mockups right in your Browser
-          url: http://threed.io/
-        - name: Mockup World
-          description: The best free Mockups from the Web
-          url: https://free.lstore.graphics/
-        - name: Lstore
-          description: Exclusive mindblowing freebies for designers and developers
-          url: https://free.lstore.graphics/
-        - name: pixeden
-          description: free web resources and graphic design templates.
-          url: https://www.pixeden.com/
-        - name: For Graphic TM
-          description: High Quality PSD Mockups for Graphic Designers.
-          url: http://forgraphictm.com/
-    - name: 摄影图库
-      sites:
-        - name: Unsplash
-          description: Beautiful, free photos.
-          url: https://unsplash.com/
-        - name: visualhunt
-          description: 100% Free High Quality Photos
-          url: https://visualhunt.com/
-        - name: librestock
-          description: 65,084 high quality do-what-ever-you-want stock photos
-          url: https://librestock.com/
-        - name: pixabay
-          description: 可在任何地方使用的免费图片和视频
-          url: https://pixabay.com/
-        - name: SplitShire
-          description: Free Stock Photos and Videos for commercial use.
-          url: https://www.splitshire.com/
-        - name: StockSnap
-          description: Beautiful free stock photos
-          url: https://stocksnap.io/
-        - name: albumarium
-          description: The best place to find & share beautiful images
-          url: http://albumarium.com/
-        - name: myphotopack
-          description: A free photo pack just for you. Every month.
-          url: https://myphotopack.com/
-        - name: Notaselfie
-          description: Photos that happen along the way. You can use the images anyway you like. Have fun!
-          url: http://notaselfie.com/
-        - name: papers
-          description: Wallpapers Every Hour!Hand collected :)
-          url: http://papers.co/
-        - name: stokpic
-          description: Free Stock Photos For Commercial Use
-          url: http://stokpic.com/
-        - name: 55mm
-          description: Use our FREE photos to tell your story!
-          url: https://55mm.co/visuals
-        - name: thestocks
-          description: Use our FREE photos to tell your story!
-          url: http://thestocks.im/
-        - name: freenaturestock
-          description: Exclusive mindblowing freebies for designers and developers
-          url: http://freenaturestock.com/
-        - name: negativespace
-          description: Beautiful, High-Resolution Free Stock Photos
-          url: https://negativespace.co/
-        - name: gratisography
-          description: Free high-resolution pictures you can use on your personal and commercial projects, free of copyright restrictions.
-          url: https://gratisography.com/
-        - name: imcreator
-          description: A curated collection of free web design resources, all for commercial use.
-          url: http://imcreator.com/free
-        - name: lifeofpix
-          description: Free high resolution photography
-          url: http://www.lifeofpix.com/
-        - name: skitterphoto
-          description: Free Stock Photos for Creative Professionals
-          url: https://skitterphoto.com/
-        - name: mmtstock
-          description: Free photos for commercial use
-          url: https://mmtstock.com/
-        - name: magdeleine
-          description: HAND-PICKED FREE PHOTOS FOR YOUR INSPIRATION
-          url: https://magdeleine.co/browse/
-        - name: jeshoots
-          description: New Free Photos & Mockups in to your Inbox!
-          url: http://jeshoots.com/
-        - name: hdwallpapers
-          description: High Definition Wallpapers & Desktop Backgrounds
-          url: https://www.hdwallpapers.net
-        - name: publicdomainarchive
-          description: New 100% Free Stock Photos. Every. Single. Week.
-          url: http://publicdomainarchive.com/
-    - name: PPT资源
-      sites:
-        - name: OfficePLUS
-          description: OfficePLUS，微软Office官方在线模板网站！
-          url: http://www.officeplus.cn/Template/Home.shtml
-        - name: 优品PPT
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-          url: http://www.ypppt.com/
-        - name: PPT+
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台
-          url: http://www.pptplus.cn/
-        - name: PPTMind
-          description: 分享高端ppt模板与keynote模板的数字作品交易平台
-          url: http://www.pptmind.com/
-        - name: tretars
-          description: The best free Mockups from the Web
-          url: http://www.tretars.com/ppt-templates
-        - name: 5百丁
-          description: 中国领先的PPT模板共享平台
-          url: http://ppt.500d.me/
-    - name: 图形创意
-      sites:
-        - name: photoshop
-          description: Photoshop不需要解释
-          url: https://www.adobe.com/cn/products/photoshop.html
-        - name: Affinity Designer
-          description: 专业创意软件
-          url: https://affinity.serif.com/
-        - name: Illustrator
-          description: 矢量图形和插图。
-          url: https://www.adobe.com/cn/products/illustrator/
-        - name: indesign
-          description: 页面设计、布局和出版。
-          url: http://www.adobe.com/cn/products/indesign.html
-        - name: cinema-4d
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-        - name: 3ds-max
-          description: 3D modeling, animation, and rendering software
-          url: https://www.autodesk.com/products/3ds-max/overview
-        - name: Blender
-          description: Blender is the free and open source 3D creation suite.
-          url: https://www.blender.org/
-    - name: 界面设计
-      sites:
-        - name: Adobe XD
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-          url: http://www.adobe.com/products/xd.html
-        - name: invisionapp
-          description: Powerful design prototyping tools
-          url: https://www.invisionapp.com/
-        - name: marvelapp
-          description: Simple design, prototyping and collaboration
-          url: https://marvelapp.com/
-        - name: Muse CC
-          description: 无需利用编码即可进行网站设计。
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-        - name: figma
-          description: Design, prototype, and gather feedback all in one place with Figma.
-          url: https://www.figma.com/
-    - name: 交互动效
-      sites:
-        - name: Adobe After Effects CC
-          description: 电影般的视觉效果和动态图形。
-          url: https://www.adobe.com/cn/products/aftereffects/
-        - name: principle
-          description: Animate Your Ideas, Design Better Apps
-          url: http://principleformac.com/
-        - name: flinto
-          description: Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
-          url: https://www.flinto.com/
-        - name: framer
-          description: Design everything from detailed icons to high-fidelity interactions—all in one place.
-          url: https://framer.com/
-        - name: ProtoPie
-          description: 高保真交互原型设计
-          url: http://www.protopie.cn/
-    - name: 在线配色
-      sites:
-        - name: khroma
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-          url: http://khroma.co/generator/
-        - name: uigradients
-          description: Beautiful colored gradients
-          url: https://uigradients.com
-        - name: gradients
-          description: Curated gradients for designers and developers
-          url: http://gradients.io/
-        - name: Coolest
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff
-          url: https://webkul.github.io/coolhue/
-        - name: webgradients
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
-          url: https://webgradients.com/
-        - name: grabient
-          description: 2017 Grabient by unfold
-          url: https://www.grabient.com/
-        - name: thedayscolor
-          description: The daily color digest
-          url: http://www.thedayscolor.com/
-        - name: flatuicolors
-          description: Copy Paste Color Pallette from Flat UI Theme
-          url: http://flatuicolors.com/
-        - name: coolors
-          description: The super fast color schemes generator!
-          url: https://coolors.co/
-        - name: colorhunt
-          description: Beautiful Color Palettes
-          url: http://www.colorhunt.co/
-        - name: Adobe Color CC
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-          url: https://color.adobe.com/zh/create/color-wheel
-        - name: flatuicolorpicker
-          description: Best Flat Colors For UI Design
-          url: http://www.flatuicolorpicker.com/
-        - name: trianglify
-          description: Trianglify Generator
-          url: http://qrohlf.com/trianglify-generator/
-        - name: klart
-          description: Beautiful colors and designs to your inbox every week
-          url: https://klart.co/colors/
-        - name: vanschneider
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-          url: http://www.vanschneider.com/colors
-    - name: 在线工具
-      sites:
-        - name: tinypng
-          description: Optimize your images with a perfect balance in quality and file size.
-          url: https://tinypng.com/
-        - name: goqr
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-          url: http://goqr.me/
-        - name: ezgif
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-          url: https://ezgif.com
-        - name: Android 9 patch
-          description: Android 9-patch shadow generator fully customizable shadows
-          url: http://inloop.github.io/shadow4android/
-        - name: screen sizes
-          description: Viewport Sizes and Pixel Densities for Popular Devices
-          url: http://screensiz.es/
-        - name: svgomg
-          description: SVG在线压缩平台
-          url: https://jakearchibald.github.io/svgomg/
-        - name: 稿定抠图
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
-          url: https://www.gaoding.com
-    - name: 设计规范
-      sites:
-        - name: Design Guidelines
-          description: Design Guidelines — The way products are built.
-          url: http://designguidelines.co/
-        - name: Awesome design systems
-          description: A collection of awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-        - name: Material Design
-          description: Introduction - Material Design
-          url: https://material.io/guidelines/
-        - name: Human Interface Guidelines
-          description: Human Interface Guidelines iOS
-          url: https://developer.apple.com/ios/human-interface-guidelines
-        - name: Photoshop Etiquette
-          description: PS礼仪-WEB设计指南
-          url: http://viggoz.com/photoshopetiquette/
-    - name: 视频教程
-      sites:
-        - name: Photoshop Lady
-          description: Your Favourite Photoshop Tutorials in One Place
-          url: http://www.photoshoplady.com/
-        - name: doyoudo
-          description: 创意设计软件学习平台
-          url: http://doyoudo.com/
-        - name: 没位道
-          description: WEB UI免费视频公开课
-          url: http://www.c945.com/web-ui-tutorial/
-        - name: 慕课网
-          description: 程序员的梦工厂（有UI课程）
-          url: https://www.imooc.com/
-    - name: 设计文章
-      sites:
-        - name: Web Design Ledger
-          description: Web Design Blog
-          url: https://webdesignledger.com
-    - name: 设计电台
-      sites:
-        - name: UX Coffee
-          description: 《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。
-          url: http://uxcoffee.co/
-        - name: Anyway.FM
-          description: 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客
-          url: https://anyway.fm/
-        - name: 异能电台
-          description: 将全宇宙设计师的故事讲给你听。
-          url: https://www.yineng.fm
-    - name: 交互设计
-      sites:
-        - name: Little Big Details
-          description: Little Big Details is a curated collection of the finer details of design, updated every day.
-          url: http://littlebigdetails.com/
-        - name: Smashing Magazine
-          description: Below you’ll find the best tips to take not only your UX design process but also the experiences you craft to the next level.
-          url: https://www.smashingmagazine.com/category/user-experience
-        - name: nngroup
-          description: Evidence-Based User Experience Research, Training, and Consulting
-          url: https://www.nngroup.com/articles/
-        - name: Boxes and Arrows
-          description: Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business.
-          url: http://boxesandarrows.com/
-        - name: UX Design Weekly
-          description: get a hand picked list of the best user experience design links every week.
-          url: http://uxdesignweekly.com/
-        - name: UX Ren
-          description: 用户体验人的专业社区
-          url: http://uxren.cn/
-    - name: UED团队
-      sites:
-        - name: Airbnb Design
-          description: Airbnb Design
-          url: https://airbnb.design
-        - name: Facebook Design
-          description: Facebook Design
-          url: http://facebook.design/
-        - name: Google Design
-          description: Google Design
-          url: https://design.google/
-        - name: eico design
-          description: 数字化咨询与产品专家
-          url: http://eicodesign.com/
-        - name: nice design
-          description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
-          url: http://www.niceui.cn/
-        - name: 腾讯CDC
-          description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
-          url: http://cdc.tencent.com/
-        - name: TGideas
-          description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
-          url: http://tgideas.qq.com/
-        - name: ISUX
-          description: 腾讯社交用户体验设计部
-          url: https://isux.tencent.com/
-        - name: MXD
-          description: 腾讯MIG无线互联网事业群设计团队
-          url: http://mxd.tencent.com/
-        - name: Aliued
-          description: 阿里巴巴国际UED团队
-          url: http://www.aliued.com/
-        - name: U一点
-          description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
-          url: http://www.aliued.cn/
-        - name: 网易uedc
-          description: 网易用户体验设计中心（User Experience Design Center）
-          url: http://uedc.163.com/
-        - name: 百度用户体验中心
-          description: 百度用户体验中心
-          url: http://ued.baidu.com/
-        - name: 京东设计中心
-          description: 京东设计中心
-          url: http://jdc.jd.com/
-        - name: 百度企业产品用户体验中心
-          description: 百度企业产品用户体验中心
-          url: http://eux.baidu.com/
-        - name: 携程设计委员会
-          description: 携程设计委员会-Ctrip Design Committee
-          url: http://ued.ctrip.com/
+        - name: DownSub
+          description: 字幕下载工具 支持油管Vimeo哔哩哔哩爱奇艺腾讯等网站
+          url: https://downsub.com
+        - name: TubeGet
+          description: 免费视频下载工具 支持油管脸书哔哩哔哩Vimeo推特4K高清视频下载 ｜ 教程
+          url: https://www.gihosoft.com/free-youtube-downloader.html
+        - name: Google Drive
+          description: 谷歌提供的强大的在线云存储服务和协同办公服务
+          url: https://drive.google.com/drive/my-drive
+        - name: Evernote
+          description: 效率工具 你的第2大脑 帮你简化工作学习生活
+          url: https://evernote.com/intl/zh-cn/
+        - name: Processon
+          description: 一个功能强大的在线协作绘图和社交网络平台
+          url: https://processon.com/
+        - name: Feedly
+          description: 第三方RSS阅读器 第一时间获取你关心的内容
+          url: https://feedly.com/
+        - name: 为知笔记
+          description: 效率工具 你的第2大脑 帮你简化工作学习生活
+          url: https://www.wiz.cn/zh-cn
+        - name: 潮汐
+          description: 白噪音 帮你保持专注、减压放松、睡得更好
+          url: https://tide.fm/
